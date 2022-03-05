@@ -18,7 +18,6 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include <stdarg.h>
-#include <stdio.h>
 
 #include "main.h"
 #include "tim.h"
